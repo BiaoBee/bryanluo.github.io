@@ -1,0 +1,12 @@
+# Site settings
+title: 萝卜的博客
+email: BiaoLuo@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  iOS开发者，热爱学习、热爱创新、追求极致。在成都工作，正在寻求参与伟大的产品。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://github.com/bryanluo/" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
